@@ -1,0 +1,33 @@
+# Identificação
+
+## ID
+EC-001
+
+## Descrição
+Ao acabar os nossos créditos na AWS, podemos começar a ter de pagar valores que venham a tornar o projeto inviável, nos dando prejuízo.
+
+## Categoria
+Econômica
+
+# Análise
+
+## Impacto
+Alto
+
+## Probabilidade
+Baixa
+
+## Consequencia
+O projeto resultará em prejuízo financeiro para a empresa
+
+# Tratamento
+
+## Plano de prevenção
+Restringir o acesso a conta na AWS, deixando apenas uma pessoa como responsável por isso, diminuindo o risco de alguma configuração errada por parte de outra pessoa possa acarretar em cobranças indesejadas. 
+Além disso, usar ferramentas de monitoramento para verificar o uso e a escalabilidade do projeto, podendo assim prever, com base nesses dados de uso, qual será o custo médio dentro um período de tempo.
+
+## Plano de contingência
+Retirar o projeto da nossa conta da AWS e buscar um meio alternativo para deploy e armazenamento do projeto, preferencialmente sem custos, mesmo que isso implique em perdas de escalabilidade, até ser conversado com o cliente e encontrado um meio termo que venha a beneficiar ambos, mutuamente.
+
+## Responsável
+A mesma pessoa que ficar responsável por cuidar da arquitetura e de avaliar o desempenho/custo dela ao longo do tempo, podendo haver uma necessidade de auxílio por parte do time na migração.
