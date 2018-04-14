@@ -2,11 +2,11 @@
 
 ## Grupo
 
-Nome:
+Nome: Leandro Piekatoski Morais de Medeiros
 
-Nome:
+Nome:Heloisa de Medeiros Morais
 
-Nome:
+Nome:Matheus Baade
 
 ## Projeto: Gerenciamento de Petições
 
