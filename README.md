@@ -4,9 +4,9 @@
 
 Nome: Leandro Piekatoski Morais de Medeiros
 
-Nome:Heloisa de Medeiros Morais
+Nome: Heloisa de Medeiros Morais
 
-Nome:Matheus Baade
+Nome: Matheus Baade
 
 ## Projeto: Gerenciamento de Petições
 
